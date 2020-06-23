@@ -1,0 +1,3409 @@
+[{
+        "id": 0,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Maradj állva két körig",
+        "time": "",
+        "turns": 2
+    },
+    {
+        "id": 1,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Csinálj 10 fekvőtámaszt egy kézzel\t egy perc alatt",
+        "time": 60,
+        "turns": ""
+    },
+    {
+        "id": 2,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Melyik színészt/színésznőt szereted a legjobban?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 3,
+        "type": "Truth",
+        "level": 3,
+        "summary": "Ki a te titkos crush-od?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 4,
+        "type": "Truth",
+        "level": 0,
+        "summary": "Mi volt az eddigi legundorítóbb dolog amit tettél?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 5,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Állj kézen két percig",
+        "time": 120,
+        "turns": ""
+    },
+    {
+        "id": 6,
+        "type": "Truth",
+        "level": 3,
+        "summary": "Mi a legnagyobb félelmed egy párkapcsolatban?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 7,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Mi volt az eddigi legviccesebb első randid?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 8,
+        "type": "Truth",
+        "level": 3,
+        "summary": "Mi számodra a leg lehangolóbb egy partner-ben?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 9,
+        "type": "Truth",
+        "level": 0,
+        "summary": "Mi a legfurcsább szokásod?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 10,
+        "type": "Truth",
+        "level": 3,
+        "summary": "Hány gyereket szeretnél?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 11,
+        "type": "Truth",
+        "level": 3,
+        "summary": "Milyen neked egy tökéletes első nap?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 12,
+        "type": "Truth",
+        "level": 0,
+        "summary": "Mi a legkínosabb dolog amit rólad tudni kell?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 13,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Mi volt a gyerekkori beceneved?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 14,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Mi a kedvencs filmed?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 15,
+        "type": "Truth",
+        "level": 3,
+        "summary": "írd le a számodra legrosszabb randit?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 16,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Ha nem létezne pénz; mit kezdenél az életeddel?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 17,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Mi a kedvenc ételed?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 18,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Melyik a három legkedveltebb szín; és miért?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 19,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Mi az álommunkád?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 20,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Ha 3 napig ott ragadnál egy lakatlan szigeten; mit vinnĂ©l magaddal?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 21,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Ki a számodra tökéletes személy?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 22,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Apple vagy Android?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 23,
+        "type": "Truth",
+        "level": 1,
+        "summary": "Kedvenc helyed a vĂˇrosban?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 24,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Mi a legnagyobb tehetséged?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 25,
+        "type": "Truth",
+        "level": 3,
+        "summary": "Hiszel a szerelemben első látásra?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 26,
+        "type": "Truth",
+        "level": 3,
+        "summary": "Hiszel a szerelemben?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 27,
+        "type": "Truth",
+        "level": 3,
+        "summary": "Hogy nĂ©zne ki az Ăˇlom-eskĂĽvĹ‘d?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 28,
+        "type": "Truth",
+        "level": 3,
+        "summary": "LennĂ©l nudista?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 29,
+        "type": "Truth",
+        "level": 1,
+        "summary": "Hogy érzel a kenyér sarkok iránt?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 30,
+        "type": "Truth",
+        "level": 1,
+        "summary": "Meg tudod nyalni az orrod?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 31,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Ha el tudnál venni egy rossz dolog a világból, mi lenne az?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 32,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Mi a rejtett élvezeted?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 33,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Mi volt a leg exotikusab étel amit ettél?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 34,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Melyik országba élnél?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 35,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Ha egy dolgot változtatnál a testeden; mi lenne az?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 36,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Miről álmodozol a legtöbbet?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 37,
+        "type": "Truth",
+        "level": 0,
+        "summary": "Mi volt a legfurcsább álmod?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 38,
+        "type": "Truth",
+        "level": 1,
+        "summary": "Meg tudod nyalni a könyököd?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 39,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Melyik a kedvenc évszakod?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 40,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Kibírnál egy hetet gyorskaja nélkül?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 41,
+        "type": "Truth",
+        "level": 3,
+        "summary": "Milyen volt az első csók?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 42,
+        "type": "Truth",
+        "level": 3,
+        "summary": "Milyen volt a legrosszab csók?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 43,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Szeretsz edzeni?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 44,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Add elő a kedvencs hí­rességed védjegyét",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 45,
+        "type": "Dare",
+        "level": 1,
+        "summary": "Hunyd le a szemed és küldj egy üzenetet egy random személynek",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 46,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Fogj egy seprüt és add elő a legszebb tangót",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 47,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Adj elő egy 3 perces Stand-Up-ot",
+        "time": 180,
+        "turns": ""
+    },
+    {
+        "id": 48,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Break Dance",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 49,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Rakj össze egy történetet a töled jobbra levő tárgyról",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 50,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Énekeld el az ABC-t anélkül, hogy kinyisd a szád",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 51,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Add elő a legjobb kampányszövegedet",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 52,
+        "type": "Dare",
+        "level": 1,
+        "summary": "Ord­ítsd el az ami most eszedbe jutott",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 53,
+        "type": "Dare",
+        "level": 1,
+        "summary": "Rendelj 300 szardiniás pizzát",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 54,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Üsd a mellkasodat mind egy gorilla egy percig",
+        "time": 60,
+        "turns": ""
+    },
+    {
+        "id": 55,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Az elkövetkező 10 percben mindent énekelve mondj",
+        "time": 600,
+        "turns": ""
+    },
+    {
+        "id": 56,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Adj valakinek egy láb-masszázst",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 57,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Mond el az ABC-t visszafele 15 másodperc alatt",
+        "time": 15,
+        "turns": ""
+    },
+    {
+        "id": 58,
+        "type": "Dare",
+        "level": 1,
+        "summary": "Menj el a szomszĂ©d hĂˇzhoz Ă©s kĂ©rj banĂˇnt",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 59,
+        "type": "Dare",
+        "level": 1,
+        "summary": "Menj oda valakihez és kérj egy ölelést",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 60,
+        "type": "Dare",
+        "level": 1,
+        "summary": "A következő 10 percig állitsd át a telefonod nyelvét Kínaira",
+        "time": 600,
+        "turns": ""
+    },
+    {
+        "id": 61,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Viselkedj úgy mint a kedvenc Disney karaktered a játék végéig",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 62,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Énekeld a Bölcsődalt beat box-olva",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 63,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Adj egy léggitár koncertet",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 64,
+        "type": "Dare",
+        "level": 2,
+        "summary": "írj egy verset a narancs és a szarvas szavakkal",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 65,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Kapcsold ki az övedet a könyököddel",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 66,
+        "type": "Dare",
+        "level": 0,
+        "summary": "Mosd meg valaki más fogát",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 67,
+        "type": "Dare",
+        "level": 3,
+        "summary": "Twerk-elj egy percig",
+        "time": 60,
+        "turns": ""
+    },
+    {
+        "id": 68,
+        "type": "Dare",
+        "level": 3,
+        "summary": "Hastáncolj egy country számra",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 69,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Improvizálj egy country dalt",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 70,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Viselkedj úgy mint egy kutya egy körig",
+        "time": "",
+        "turns": 1
+    },
+    {
+        "id": 71,
+        "type": "Dare",
+        "level": 2,
+        "summary": "írj egy rövid rap szöveget valamelyik játékosról",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 72,
+        "type": "Dare",
+        "level": 3,
+        "summary": "Viselkedj úgy mint Rómeo és Julia (Válaszd ki a Júliád)",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 73,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Mutasd be egy személy tulajdonságát addig amig egy játékos ki nem találja",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 74,
+        "type": "Dare",
+        "level": 2,
+        "summary": "A játékosok válasszanak egy felkiáltást amit neked minden mondatod után mondanod kell 5 percig",
+        "time": 300,
+        "turns": ""
+    },
+    {
+        "id": 75,
+        "type": "Dare",
+        "level": 1,
+        "summary": "Játszd el hogy nem érted a saját nyelved a következő körig (találd ki a saját nyelved)",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 76,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Egy másik játékos nevének betűit felhasználva jellemezd őt",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 77,
+        "type": "Dare",
+        "level": 2,
+        "summary": "A következő körig használj jelnyelvet",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 78,
+        "type": "Dare",
+        "level": 2,
+        "summary": "A következő körig fekvőtámaszozz",
+        "time": "",
+        "turns": 1
+    },
+    {
+        "id": 79,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Viselj ujj bajuszt 5 percig",
+        "time": 300,
+        "turns": ""
+    },
+    {
+        "id": 80,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Csak a könyököd és a térded segítségével csinálj egy szendvicset",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 81,
+        "type": "Dare",
+        "level": 1,
+        "summary": "írj valamlyen social media posztot az orroddal",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 82,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Csinálj egy szelfit egy vécével és posztold ki",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 83,
+        "type": "Dare",
+        "level": 1,
+        "summary": "Vegyél fel egy botot a földről a fogaddal",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 84,
+        "type": "Truth",
+        "level": 3,
+        "summary": "Mennyire vagy hajlékony?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 85,
+        "type": "Dare",
+        "level": 3,
+        "summary": "fogj egy jégkockát és tartsd rajta az egyik játékoson amíg elolvad",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 87,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Kedvenc színed?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 86,
+        "type": "Dare",
+        "level": 3,
+        "summary": "Masszírozd meg a tőled jobbra levő hátát",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 88,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Mi a kedvenc állatod?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 89,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Mi a kedvenc kajád?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 90,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Mi a kedvencs tantárgyad?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 91,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Ki a kedvencs tanárod/tanárnőd és miért?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 92,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Mi a kedvencs zene-számod?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 93,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Ki a kedvenc Disney karaktered?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 94,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Melyik a kedvenc TV show-d?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 95,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Mi a háziállatod neve?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 96,
+        "type": "Truth",
+        "level": 2,
+        "summary": "HĂˇnyas a cipĹ‘mĂ©reted?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 97,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Melyik a kedvenc filmed?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 98,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Ki a kedvenc énekesed?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 99,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Szereted a bogarakat?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 100,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Melyik a kedvenc zöldséged?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 101,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Kacsa lennél vagy inkább csirke?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 102,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Kígyó lennél vagy inkább malac?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 103,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Melyik a kedvenc játékod?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 104,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Szeretsz énekelni?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 105,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Kedvenc dolog amit csinálsz hétvégén?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 106,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Tudsz táncolni?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 107,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Tudsz főzni?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 108,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Beszélsz más nyelven ha igen mutasd be és az angol nem éri?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 109,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Kedvenc időtöltés iskola után?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 110,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Sportolsz valamit?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 111,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Kedvenc sport?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 112,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Milyen állattól félsz?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 113,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Félsz a szörnyektől?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 114,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Van képzeletbeli barátod?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 115,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Ki a legjobb barátod?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 116,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Mikor tanultál meg biciklizni?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 117,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Tudod hasznĂˇlni a Pogo Stick-et?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 118,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Mi akarsz lenni ha nagy leszel?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 119,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Mi a kedvenc sportod az olimpián?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 120,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Mi az állam fővárosa ahol élsz?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 121,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Ha bárhova mehetnél a világban, hova mennél?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 122,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Ha lenne egy millió dollárod, mit csinálnál a pénzeddel?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 123,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Ha beszinezhetnéd a hajad bármilyen színre, milyen színt választanál?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 124,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Hány testvéred van?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 125,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Ha lehetnél egy állat, melyik állat lennél?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 126,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Milyen helyre mennél a legszívesebben enni?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 127,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Táncold el a legfurcsább táncot amit tudsz!",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 128,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Játszd azt mintha egy öregasszony vagy öregember lennál!",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 129,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Fordulj körbe 10-szer, amikor kész vagy próbálj egyenes vonalban menni!",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 130,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Csinálj 10 terpeszugrást és 10 fekvőtámaszt!",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 131,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Mondd el visszafele az ábécét 3ö másodperc alatt!",
+        "time": 30,
+        "turns": ""
+    },
+    {
+        "id": 132,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Bjrd ki egy percig pislogás nélkül!",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 133,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Tartsd vissza a lélegzeted 10 másodpercig!",
+        "time": 10,
+        "turns": ""
+    },
+    {
+        "id": 134,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Tettesd magad egy csirkének egy percig!",
+        "time": 60,
+        "turns": ""
+    },
+    {
+        "id": 135,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Ugrálj amíg a te köröd nem következik megint!",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 136,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Csukd be a szemed amíg te következel újra!",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 137,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Énekelej egy számot fejen állva",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 138,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Csinálj 5 cigánykereket egyhuzamban!",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 139,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Csináld meg a hidat!",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 140,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Játszodd el a kedvenc Disney karakteredet!",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 141,
+        "type": "Dare",
+        "level": 2,
+        "summary": "A következő körig minden mondatod után mondj egy előre megbeszélt szót",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 142,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Költs egy verset a kék színről!",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 143,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Viselkedj úgy mint egy majom addíg amíg újra te nem következel!",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 144,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Állj kézen!",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 145,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Nézz kancsin'",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 146,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Nyald meg az orrod!",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 147,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Egyél egy evőkanál mogyoróvajat!",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 148,
+        "type": "Dare",
+        "level": 2,
+        "summary": "CSikizd meg az embert aki tőled jobb oldalra ül!",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 149,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Kösd össze a cipőfűződ és próbálj elmenni az ajtóig és vissza!",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 150,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Viselkedj úgy mint egy csecsemő amíg újra te nem következel!",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 151,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Múzz mint egy tehén amilyen hangosan tudsz!",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 152,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Táncold el a Fortnite táncot!",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 153,
+        "type": "Dare",
+        "level": 2,
+        "summary": "CSinálj úgy mint a kedvenc szuperhősöd!",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 154,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Tíz percig ne mondd ki a: vagy, a, az, egy, vagy szavakat!",
+        "time": 600,
+        "turns": ""
+    },
+    {
+        "id": 155,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Állj úgy mint egy szobor amíg te nem következel megint! (Ne mozogj vagy beszélj) ",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 156,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Nyávogj mint egy macska!",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 157,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Tedd a lábad a fejed mögé!",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 158,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Énekeld el a kedvenc énekedet!",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 159,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Vágj hal arcot!",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 160,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Csinálj úgy mint egy repülő 2 percig!",
+        "time": 120,
+        "turns": ""
+    },
+    {
+        "id": 161,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Táncolj úgy mint egy balerína!",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 162,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Mondd el az ábécét egy más nyelven!",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 163,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Táncold el a legjobb hip hop táncodat!",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 164,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Próbáld meg megnyalni a könyököd!",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 165,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Fesd be a körmöd zsírkrétával!",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 166,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Ülj fejjel lefelé egy széken amíg te nem következel megint!",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 167,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Hogyan alszol a táborokban az emberekkel?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 168,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Mi a valós tanulmányi átlagod?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 169,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Mi a legutáltabb tevékenység táborokban?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 170,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Mit csináltál iskólai összerázón?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 171,
+        "type": "Truth",
+        "level": 1,
+        "summary": "Valaha is volt emlékezetkiesésed attól hogy túl sokat ittál?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 172,
+        "type": "Truth",
+        "level": 0,
+        "summary": "Mi a legőrültebb dolog amit csináltál részegen?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 173,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Ki volt legjobb szobatársad akivel valaha találkoztál?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 174,
+        "type": "Truth",
+        "level": 1,
+        "summary": "Mi volt a legbosszantóbb dolog amit a szobatársad tett?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 175,
+        "type": "Truth",
+        "level": 1,
+        "summary": "Ittál vagy cigarettáztál kollégium előtt? Wagy akkor kezdted amikor oda kerültél?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 176,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Kilépnél az iskolából ah megnyernéd a lottót?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 177,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Mi volt a legjobb party amin valaha voltál?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 178,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Hány partit szerveztél már a házadban?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 179,
+        "type": "Truth",
+        "level": 1,
+        "summary": "Mennyi a legnagyobb mennyiségű feles amennyit megittál egy este alatt?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 180,
+        "type": "Truth",
+        "level": 0,
+        "summary": "Valaha hánytál valaki más autójában?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 181,
+        "type": "Truth",
+        "level": 0,
+        "summary": "Valaha pisiltél ágyba mert túl részeg voltál?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 182,
+        "type": "Truth",
+        "level": 1,
+        "summary": "Mi a leghosszabb idő amit kibírtál alvás nélkül?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 183,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Hányszor lógtál el óráról ok nélkül?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 184,
+        "type": "Truth",
+        "level": 1,
+        "summary": "Valaha kaptál el egy nemi betegséget?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 185,
+        "type": "Truth",
+        "level": 1,
+        "summary": "Valaha ébredtél már fel egy idegennel az ágyadban?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 186,
+        "type": "Truth",
+        "level": 1,
+        "summary": "Mi a legkorábban milyen órában ittál alkoholt?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 187,
+        "type": "Truth",
+        "level": 1,
+        "summary": "Valaha költötted el a szüleid pénzét alkoholra?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 188,
+        "type": "Truth",
+        "level": 1,
+        "summary": "Hány felsőssel aludtál már együtt?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 189,
+        "type": "Truth",
+        "level": 1,
+        "summary": "Kivel csóróskodtál a legtöbbet?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 190,
+        "type": "Truth",
+        "level": 1,
+        "summary": "Valaha hazudtál a szüleidnek arról hogy iskolában vagy-e vagy nem?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 191,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Valaha vettél el pénzt a szobatársadtól?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 192,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Mi a legidegesítőbb dolog amit a szobatársad csinált?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 193,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Valaha verekedtél az iskolában?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 194,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Kaptál már bármilyen levelet?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 195,
+        "type": "Dare",
+        "level": 1,
+        "summary": "Igyál egy felest!",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 196,
+        "type": "Dare",
+        "level": 1,
+        "summary": "A tőled jobbra levő emberrel megisztok egy felest",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 197,
+        "type": "Dare",
+        "level": 1,
+        "summary": "Fuss végig az utcán alsógatyában!",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 198,
+        "type": "Dare",
+        "level": 1,
+        "summary": "Csapd meg a fenekét a tőled balra ülőnek!",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 199,
+        "type": "Dare",
+        "level": 0,
+        "summary": "Egyél meg egy nyers tojást!",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 200,
+        "type": "Dare",
+        "level": 0,
+        "summary": "Egyél meg egy csomag száraz laskát!",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 201,
+        "type": "Dare",
+        "level": 1,
+        "summary": "Fogselymezd meg a tőled balra ülő fogát!",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 202,
+        "type": "Dare",
+        "level": 1,
+        "summary": "Zuhanyozz le ruhában!",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 203,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Beszélj úgy mint Tony Montana a következő 10 percben!",
+        "time": 600,
+        "turns": ""
+    },
+    {
+        "id": 204,
+        "type": "Dare",
+        "level": 0,
+        "summary": "Egyél vécépappírt!",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 205,
+        "type": "Dare",
+        "level": 1,
+        "summary": "Szívj fel egy csík cukrot!",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 206,
+        "type": "Dare",
+        "level": 0,
+        "summary": "Egyél egy darab szappant!",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 207,
+        "type": "Dare",
+        "level": 1,
+        "summary": "Twerkelj kézenállva!",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 208,
+        "type": "Dare",
+        "level": 1,
+        "summary": "Hagyd hogy valaki csináljon neked egy frizurát bal kézzel!(jobb kézzel ha bal kezes az illető) ",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 209,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Írj és rappelj el egy számot mindenkiről a csapatban!",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 210,
+        "type": "Dare",
+        "level": 0,
+        "summary": "Nyald meg valaki lábát!",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 211,
+        "type": "Dare",
+        "level": 1,
+        "summary": "Hívj fel valakit és beszélj furcsán velüe!",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 212,
+        "type": "Dare",
+        "level": 1,
+        "summary": "Küldj el egy Email-t egy tanárodnak és mond meg hogy szereted!",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 213,
+        "type": "Dare",
+        "level": 0,
+        "summary": "Nyald meg a falat!",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 214,
+        "type": "Dare",
+        "level": 1,
+        "summary": "Igyatok meg 2 felest két különböző fajta alkoholból",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 215,
+        "type": "Dare",
+        "level": 0,
+        "summary": "Hagyd hogy valaki körbenyalja az arcod!",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 216,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Ülj be a sarokba és ne szólj egy szót se 3 körig",
+        "time": "",
+        "turns": 3
+    },
+    {
+        "id": 217,
+        "type": "Dare",
+        "level": 3,
+        "summary": "Jöjj össze valaki barát vagy barátnőjével!",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 218,
+        "type": "Dare",
+        "level": 1,
+        "summary": "Igyál meg egy egész sört 15 másodperc alatt!",
+        "time": 15,
+        "turns": ""
+    },
+    {
+        "id": 219,
+        "type": "Dare",
+        "level": 1,
+        "summary": "Ülj a szemeteskosárban a következő körben!",
+        "time": "",
+        "turns": 1
+    },
+    {
+        "id": 220,
+        "type": "Dare",
+        "level": 1,
+        "summary": "Igy'l meg egy egész sört, aztán forogj körbe 15 másodpercig, végül próbálj meg elfutni az ajtóig!",
+        "time": 15,
+        "turns": ""
+    },
+    {
+        "id": 221,
+        "type": "Dare",
+        "level": 1,
+        "summary": "Igyál 2 felest és csinálj egy cigánykererket!",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 222,
+        "type": "Dare",
+        "level": 1,
+        "summary": "Hívd fel a szüleidet és mondd meg hogy meg fogsz bukni!",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 223,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Mi a legidegesítőbb dolog amit az anyád csinált?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 224,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Mi a legidegesítőbb dolog amit az apád csinált?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 225,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Vittél már be valakit titokban a házba?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 226,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Hányszor szöktél meg a házból a szüleid tudta nélkül?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 227,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Mi a legjobb étel amit az édesanyád tud csinálni ebédre?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 228,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Ha meg tudnád változtatni bármelyik háziszabájt, mit változtatnál meg?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 229,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Szívesebben lennél egy ló vagy egy tehén?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 230,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Mi a legviccesebb dolog amit a nagyszüleid valaha mondtak?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 231,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Ha kitörölhetnél bármilyen házimunkát, akkor mi lenne az?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 232,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Mi a kedvenc rajzfilmed a te generációdból?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 233,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Mi a kedvenc gyerekkori éneked?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 234,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Mi a kedvenc társasjátékod amit a családoddal játszodtál?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 235,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Ha le tudnál némítani egy napra valakit a családodból, ki lenne az?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 236,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Hány évesen tanultál meg biciklizni?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 237,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Tudsz úszni?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 238,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Írd le az álomházadat",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 239,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Mi a legviccesebb álmod amit valaha láttál?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 240,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Valaha álmodtál az eggyik kapcsolatodról?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 241,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Ki az a celeb akibe szerelmes voltál/vagy?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 242,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Ki tanította meg neked hogyan kösd meg a cipőfűződet?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 243,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Mi volt a leghosszabb idő az életedben zuhanyzás nélkül?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 244,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Valaha hordtad ugyanazt a ruhát több mint három napig?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 245,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Mi a kedvenc ünneped, és miért?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 246,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Ha lehetnél egy bármilyen dinoszaurusz, melyik lennél?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 247,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Mennyi ideig bírnád ki a kedvenc ételed nélküld?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 248,
+        "type": "Truth",
+        "level": 2,
+        "summary": "A családodból ki mondja a legszakállasabb vicceket?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 249,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Szivesebben lennél egy dongóméh vagy egy csiga?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 250,
+        "type": "Truth",
+        "level": 0,
+        "summary": "Valaha ettél gilisztát?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 251,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Valaha piszkáltad az orrod amikor senki nem nézett oda?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 252,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Ha lehetnél bármilyen szupergonosz, ki lennél?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 253,
+        "type": "Dare",
+        "level": 0,
+        "summary": "Tegyél mogyoróvajat az orrodra és próbáld meg lenyalni!",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 254,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Állj kézen!",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 255,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Állj féllábon a következő 3 körben!",
+        "time": "",
+        "turns": 3
+    },
+    {
+        "id": 256,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Nézz kancsin és menj ki az udvarra majd vissza!",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 257,
+        "type": "Dare",
+        "level": 2,
+        "summary": "játszd el az a kedvenc rokonodat, ne hagyd abba amíg mindenki ki nem tudja találni, hogy ki vagy!",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 258,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Csinálj úgy mint egy háziállat amíg újra te nem következel!",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 259,
+        "type": "Dare",
+        "level": 2,
+        "summary": "A következő 2 körben azt kell tenned amit a tőled jobbra ülő mond!",
+        "time": "",
+        "turns": 2
+    },
+    {
+        "id": 260,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Csinálj úgy mint egy kacsa!",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 261,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Próbáld meg utánozni Mickey egeret",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 262,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Pörögj 10 másodpercig majd szaladj ki a házból (alkudható)",
+        "time": 10,
+        "turns": ""
+    },
+    {
+        "id": 263,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Egyensúlyozz egy kanalat az orrodon a következő körig",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 264,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Add elő a gonosz nevetésed amilyen hangosan csak lehet",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 265,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Vágj viccest arcot, csinálj egy selfie-t és posztold ki Facebookra",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 266,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Hívj fel valakit és énekelj neki boldog szülinapot",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 267,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Blindfolded; go to the kitchen and make sandwich",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 268,
+        "type": "Dare",
+        "level": 2,
+        "summary": "A tőled balra ülő embernek adj egy vizes willy-t",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 269,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Mozgasd a füleidet kéz nélkül",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 270,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Három körig beszélj úgy mint egy bébi",
+        "time": "",
+        "turns": 3
+    },
+    {
+        "id": 271,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Vedd fel magad a legviccesebb tánc közbe és posztold ki",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 272,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Mondj el egy rossz kop-kop viccet, mindenkinek muszály nevetnie rajta",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 273,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Tartsd vissza a lélegzeted 15 másodpercig",
+        "time": 15,
+        "turns": ""
+    },
+    {
+        "id": 274,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Fejen állás közbe énekeld a kedvenc gyerekdalod",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 275,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Break dancelj",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 276,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Három körig egyensúlyozd a fejeden a tőled balra levő tárgyat három körig",
+        "time": "",
+        "turns": 3
+    },
+    {
+        "id": 277,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Add elő a legjobb hula táncot",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 278,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Sztepptáncolj egy fotelen",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 279,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Állj fel és pörögj két körig",
+        "time": "",
+        "turns": 2
+    },
+    {
+        "id": 280,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Csinálj 150 terpeszugrást",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 281,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Használd a töled jobbra levő hasát dobként",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 282,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Állj úgy mint egy flamingo 4 körig",
+        "time": "",
+        "turns": 4
+    },
+    {
+        "id": 283,
+        "type": "Truth",
+        "level": 3,
+        "summary": "Ki a legjobban kinéző tanárod?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 284,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Puskáztál valaha?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 285,
+        "type": "Truth",
+        "level": 3,
+        "summary": "Iskolai crush?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 286,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Ki a legidegesítőbb ember akit ismersz?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 287,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Vicceltél már meg tanárt?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 288,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Hazudtál már arról, hogy mit csinálsz órák után?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 289,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Hibáztattál már valamit, amit az egyik testvéredért tettél?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 290,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Melyik főiskolára akarsz menni?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 291,
+        "type": "Truth",
+        "level": 3,
+        "summary": "Szűz vagy?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 292,
+        "type": "Truth",
+        "level": 3,
+        "summary": "Hány barátod/barátnőd volt már?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 293,
+        "type": "Truth",
+        "level": 3,
+        "summary": "Csokolóztál már? Ha igen melyik volt a legjobb?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 294,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Melyik kisállat idegesít a legjobban?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 295,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Milyen volt a legjobb nyaralás?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 296,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Elmondtad valaha a legjobb barátod titkát valakinek?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 297,
+        "type": "Truth",
+        "level": 3,
+        "summary": "Crusholtad valaha a legjobb barátod partnerét?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 298,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Mi a legidegesítőbb dolog, amit az egyik testvéred tett?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 299,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Ha van/volt valamilyen munkád, mit szerettél benne?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 300,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Ha milliárdos lennél mit csinálnál?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 301,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Mi volt a leghosszabb büntetési idő?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 302,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Mennyi időt tudnál eltölteni telefon nélkül?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 303,
+        "type": "Truth",
+        "level": 2,
+        "summary": "What is the most expensive thing you own?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 304,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Ha tudnál egyedül élni, így tennél?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 305,
+        "type": "Truth",
+        "level": 2,
+        "summary": "El tudod képzelni hogy hozzámész az iskola legfurcsább gyerekéhez?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 306,
+        "type": "Truth",
+        "level": 3,
+        "summary": "Használnál valamilyen randioldalt?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 307,
+        "type": "Truth",
+        "level": 3,
+        "summary": "Néztél már bármilyen felnőtt filmet a szüleid tudta nélkül?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 308,
+        "type": "Truth",
+        "level": 2,
+        "summary": "If you could own your own business one day; what would it be?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 309,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Mi a kedvenc ruhadarabod?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 310,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Milyen hírességnek vagy te megszállottja?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 311,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Mi volt a legvicesebb youtube videó amit valaha láttál?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 312,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Ki volt a legroszabb tanárod, miért?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 313,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Kedvenc sportcsapat?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 314,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Legőrültebb dolog amit valaha tettél a szüleid tudta nélkül?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 315,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Mit csinálnál ha egy hétig egyedül lennél otthon?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 316,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Kedvenc zeneszámod amit mostanság jött ki?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 317,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Kibírnál két hónapot, a barátaid nélkül?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 318,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Csapd meg a tőled balra levő arcát",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 319,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Két körig állj kézen a fal mellett",
+        "time": "",
+        "turns": 2
+    },
+    {
+        "id": 320,
+        "type": "Dare",
+        "level": 3,
+        "summary": "Csókolgass egy párnát a következő körödig",
+        "time": "",
+        "turns": 1
+    },
+    {
+        "id": 321,
+        "type": "Dare",
+        "level": 1,
+        "summary": "Csirketáncolj kint a füvön",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 322,
+        "type": "Dare",
+        "level": 0,
+        "summary": "Egyél meg három kanál mustárt",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 323,
+        "type": "Dare",
+        "level": 1,
+        "summary": "A könyököd segítségével posztolj ki egy facebook státuszt",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 324,
+        "type": "Dare",
+        "level": 3,
+        "summary": "Küldj egy üzenetet a crushodnak amiben megírod hogy mennyire kedveled",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 325,
+        "type": "Dare",
+        "level": 1,
+        "summary": "E-mail-ben kérdezd meg valamelyik tanárodtól hogy milyen napja volt",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 326,
+        "type": "Dare",
+        "level": 0,
+        "summary": "Szagolj erős paprikát és próbálj meg nem tüsszenteni",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 327,
+        "type": "Dare",
+        "level": 3,
+        "summary": "Kérj egy randit a crushodtól",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 328,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Bekötött szemmel pörögj tíz kört és járj egyet az utcán és vissza",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 329,
+        "type": "Dare",
+        "level": 1,
+        "summary": "Csinálj egy selfiet egy seprűvel és posztold ki mindenhova",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 330,
+        "type": "Dare",
+        "level": 0,
+        "summary": "A tőled jobbra levő zokniát rakd a szádba",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 331,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Add elő a legutáltabb tanárod valamilyen mondatát",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 332,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Prank call a local restaurant and order one of everything onthe menu",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 333,
+        "type": "Dare",
+        "level": 0,
+        "summary": "Eat half a stick of butter",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 334,
+        "type": "Dare",
+        "level": 1,
+        "summary": "Try to tickle yourself",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 335,
+        "type": "Dare",
+        "level": 0,
+        "summary": "Go rinse your mouth out with soap or a minute; then blow soap bubbles from your mouth until the soap runs out",
+        "time": 60,
+        "turns": ""
+    },
+    {
+        "id": 336,
+        "type": "Dare",
+        "level": 1,
+        "summary": "Do a cannonball onto the couch",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 337,
+        "type": "Dare",
+        "level": 0,
+        "summary": "Eat as much hot sauce as you can",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 338,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Give person to your left a kiss on the forehead",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 339,
+        "type": "Dare",
+        "level": 3,
+        "summary": "Share a shirt with the person to your right for the next 3 rounds",
+        "time": "",
+        "turns": 3
+    },
+    {
+        "id": 340,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Hold your shoe up to your nose until it is your turn again",
+        "time": "",
+        "turns": 1
+    },
+    {
+        "id": 341,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Go outside and sing your national anthem as loud as you can",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 342,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Fold yourself into a pretzel",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 343,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Run in place or the next three rounds",
+        "time": "",
+        "turns": 3
+    },
+    {
+        "id": 344,
+        "type": "Dare",
+        "level": 1,
+        "summary": "Call and yell at one of your parents and then tell them theyare grounded for a week",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 345,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Take a selfie with your finger up your nose and post it to all your social media",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 346,
+        "type": "Dare",
+        "level": 3,
+        "summary": "Do your best belly dance",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 347,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Walk on your hands from one side of the room to the other",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 348,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Make up a three minute song about the first thing that comesto your mind",
+        "time": 180,
+        "turns": ""
+    },
+    {
+        "id": 349,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Act like a pig until it is your turn again",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 350,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Put makeup on with no mirror",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 351,
+        "type": "Truth",
+        "level": 3,
+        "summary": "What is your favourite part of my body?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 352,
+        "type": "Truth",
+        "level": 0,
+        "summary": "How long have you gone without showering?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 353,
+        "type": "Truth",
+        "level": 2,
+        "summary": "What don't you want anyone in this group to ask you? (Be sure to keep it in mind for future rounds!)",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 354,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Have you ever told a lie during a game of Truth or Dare? What was it and why?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 355,
+        "type": "Truth",
+        "level": 3,
+        "summary": "Have you ever had a crush on anyone here?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 356,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Have you ever stolen anything?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 357,
+        "type": "Truth",
+        "level": 2,
+        "summary": "What's your scariest nightmare?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 358,
+        "type": "Truth",
+        "level": 2,
+        "summary": "What do you think is your biggest physical flaw?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 359,
+        "type": "Truth",
+        "level": 3,
+        "summary": "Have you ever gone skinny dipping?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 360,
+        "type": "Truth",
+        "level": 2,
+        "summary": "What kind of pajamas do you wear to bed?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 361,
+        "type": "Truth",
+        "level": 1,
+        "summary": "What's the dumbest thing you've ever done on a dare?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 362,
+        "type": "Truth",
+        "level": 3,
+        "summary": "What color is your underwear?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 363,
+        "type": "Truth",
+        "level": 0,
+        "summary": "Have you ever peed in the swimming pool?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 364,
+        "type": "Truth",
+        "level": 0,
+        "summary": "Where is the strangest place you've used the bathroom?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 365,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Are you scared of dying? Why?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 366,
+        "type": "Truth",
+        "level": 2,
+        "summary": "What is your biggest fear?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 367,
+        "type": "Truth",
+        "level": 2,
+        "summary": "What happened on the worst day of your life?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 368,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Have you ever climbed a tree?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 369,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Have you ever sang and danced in the grocery store?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 370,
+        "type": "Truth",
+        "level": 2,
+        "summary": "If you could be a superhero; what would your power be?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 371,
+        "type": "Truth",
+        "level": 2,
+        "summary": "What would you do if you were invisible for a day?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 372,
+        "type": "Truth",
+        "level": 2,
+        "summary": "If your life were made into a movie who would play you?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 373,
+        "type": "Truth",
+        "level": 2,
+        "summary": "What's your biggest pet peeve?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 374,
+        "type": "Truth",
+        "level": 2,
+        "summary": "What is your special talent?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 375,
+        "type": "Truth",
+        "level": 2,
+        "summary": "What's the best meal you've ever had?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 376,
+        "type": "Truth",
+        "level": 2,
+        "summary": "What's you favorite Disney movie and why?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 377,
+        "type": "Truth",
+        "level": 2,
+        "summary": "What would you do with a million dollars if you ever won the lottery?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 378,
+        "type": "Truth",
+        "level": 3,
+        "summary": "Who was your first crush; or who is your current crush?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 379,
+        "type": "Truth",
+        "level": 3,
+        "summary": "How old were you when you had your first kiss?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 380,
+        "type": "Truth",
+        "level": 3,
+        "summary": "What would you do if your current boyfriend/girlfriend ended things right now?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 381,
+        "type": "Truth",
+        "level": 3,
+        "summary": "Have you ever cheated on a boyfriend/girlfriend?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 382,
+        "type": "Truth",
+        "level": 3,
+        "summary": "Have you ever been cheated on by a boyfriend/girlfriend?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 383,
+        "type": "Truth",
+        "level": 3,
+        "summary": "If you could go on a date with anyone in the room who would it be?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 384,
+        "type": "Truth",
+        "level": 3,
+        "summary": "What is the most awkward moment you've ever had on a date?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 385,
+        "type": "Truth",
+        "level": 3,
+        "summary": "If you could kiss a celebrity without it impacting your current relationship; who would it be?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 386,
+        "type": "Truth",
+        "level": 3,
+        "summary": "What would you do on the perfect first date?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 387,
+        "type": "Truth",
+        "level": 3,
+        "summary": "Of all the people you know; who has the most beautiful eyes?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 388,
+        "type": "Truth",
+        "level": 3,
+        "summary": "If you could marry one teacher in the school; who would you pick and why?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 389,
+        "type": "Truth",
+        "level": 3,
+        "summary": "What were your first impressions of me (the person asking the question)?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 390,
+        "type": "Truth",
+        "level": 3,
+        "summary": "What personality traits would cause you to end a friendship?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 391,
+        "type": "Truth",
+        "level": 3,
+        "summary": "Would you go behind a friend's back with a crush?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 392,
+        "type": "Truth",
+        "level": 3,
+        "summary": "Have you ever lied to your best friend?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 393,
+        "type": "Truth",
+        "level": 3,
+        "summary": "Would you ever cheat off a friend's paper?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 394,
+        "type": "Truth",
+        "level": 2,
+        "summary": "How many best friends have you had during your lifetime?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 395,
+        "type": "Truth",
+        "level": 2,
+        "summary": "If you were stuck on a deserted island which friend would you want with you?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 396,
+        "type": "Truth",
+        "level": 2,
+        "summary": "Which person here knows something about you that you wouldn't want revealed?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 397,
+        "type": "Truth",
+        "level": 2,
+        "summary": "What are the three qualities you feel are most important in a friend?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 398,
+        "type": "Truth",
+        "level": 2,
+        "summary": "What would make you lie for your friend?",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 399,
+        "type": "Dare",
+        "level": 0,
+        "summary": "Drink a mystery brew concocted by the rest of the group. Make sure there is nothing harmful or dangerous in the concoction and set a reasonable limit of sips the person must take to complete the dare.",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 400,
+        "type": "Dare",
+        "level": 1,
+        "summary": "Eat a mouthful of crackers and try to whistle.",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 401,
+        "type": "Dare",
+        "level": 0,
+        "summary": "Crack an egg on your head.",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 402,
+        "type": "Dare",
+        "level": 0,
+        "summary": "Combine two foods that should never go together; such as pickles and peanut butter or applesauce and olives; and eat a huge bite.",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 403,
+        "type": "Dare",
+        "level": 0,
+        "summary": "Stand next to the refrigerator (or food pack if you're camping); close your eyes; and randomly point to something inside. Keep your eyes shut while someone from the group helps you eat some of the food you picked.",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 404,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Pretend to be a waiter or waitress and take snack orders from everyone in the group. Bring them the food they ordered and then check back to see if they like it.",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 405,
+        "type": "Dare",
+        "level": 0,
+        "summary": "Eat a snack without using your hands.",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 406,
+        "type": "Dare",
+        "level": 3,
+        "summary": "Exchange shirts with the person next to you for the next round of questions.",
+        "time": "",
+        "turns": 1
+    },
+    {
+        "id": 407,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Wear a funny hat on your head for the next three rounds of questions.",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 408,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Wear your pants backward for the rest of the game.",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 409,
+        "type": "Dare",
+        "level": 1,
+        "summary": "Take off your socks and wear them on your hands for the rest of the evening.",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 410,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Make a headdress out of toilet paper and pose for photos.",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 411,
+        "type": "Dare",
+        "level": 3,
+        "summary": "Switch clothing with someone of the opposite gender. Change in private; but wear the clothes for the next four rounds.",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 412,
+        "type": "Dare",
+        "level": 1,
+        "summary": "Get a large garbage bag and cut the bottom open. Put it on like a skirt and tie the ties around your waist. Act like you are modeling couture on the catwalk.",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 413,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Take 10 minutes to come up with an outfit that has every color of the rainbow. Borrow things from friends as you need to.",
+        "time": 600,
+        "turns": ""
+    },
+    {
+        "id": 414,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Set up a tea party between any of the stuffed animals in the house. Invite the girls in your group to join.",
+        "time": 180,
+        "turns": ""
+    },
+    {
+        "id": 415,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Tell them they have to do a logic puzzle and if they don't finish it within 3 minutes - you will give them an embarrasing dare!",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 416,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Mond el az abc-t visszafele britt akcentussal.",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 417,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Menj körbe a szobán egy majmot utánozva.",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 418,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Lovagoljon rajtad valaki egy kört.",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 419,
+        "type": "Dare",
+        "level": 2,
+        "summary": "A tőled jobb oldali személyről találj ki egy rapet.",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 420,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Ha van ott valamilyen háziállat; Legyen nálad a játék végéig.",
+        "time": "",
+        "turns": ""
+    },
+    {
+        "id": 421,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Tégy úgy mintha vizalatt úsznál. Ne felejts el hangokat adni és feljönni levegőért.",
+        "time": "",
+        "turns": 3
+    },
+    {
+        "id": 422,
+        "type": "Dare",
+        "level": 2,
+        "summary": "A játék végéig mind szavadnak rímelnie kell.",
+        "time": "",
+        "turns": 40
+    },
+    {
+        "id": 423,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Három körig ismételj el mindent, amit mások mondanak.",
+        "time": "",
+        "turns": 3
+    },
+    {
+        "id": 424,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Énekelj beszéd helyet két körig.",
+        "time": "",
+        "turns": 2
+    },
+    {
+        "id": 425,
+        "type": "Dare",
+        "level": 2,
+        "summary": "Kalinka Time! kalinkázz egy percig.",
+        "time": 60,
+        "turns": ""
+    }
+]
