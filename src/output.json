@@ -114,7 +114,7 @@
         "id": 14,
         "type": "Truth",
         "level": 2,
-        "summary": "Mi a kedvencs filmed?",
+        "summary": "Mi a kedvenc filmed?",
         "time": "",
         "turns": ""
     },
@@ -354,7 +354,7 @@
         "id": 44,
         "type": "Dare",
         "level": 2,
-        "summary": "Add elő a kedvencs hí­rességed védjegyét",
+        "summary": "Add elő a kedvenc hí­rességed védjegyét",
         "time": "",
         "turns": ""
     },
@@ -722,7 +722,7 @@
         "id": 90,
         "type": "Truth",
         "level": 2,
-        "summary": "Mi a kedvencs tantárgyad?",
+        "summary": "Mi a kedvenc tantárgyad?",
         "time": "",
         "turns": ""
     },
@@ -730,7 +730,7 @@
         "id": 91,
         "type": "Truth",
         "level": 2,
-        "summary": "Ki a kedvencs tanárod/tanárnőd és miért?",
+        "summary": "Ki a kedvenc tanárod/tanárnőd és miért?",
         "time": "",
         "turns": ""
     },
@@ -738,7 +738,7 @@
         "id": 92,
         "type": "Truth",
         "level": 2,
-        "summary": "Mi a kedvencs zene-számod?",
+        "summary": "Mi a kedvenc zene-számod?",
         "time": "",
         "turns": ""
     },
